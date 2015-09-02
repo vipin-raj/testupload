@@ -22,7 +22,7 @@ public class MainActivity extends ActionBarActivity {
     Button click;
     TextView tv;
     EditText edit_user;
-//branch2 commit comment
+//commented
     ProgressBar pbar;
     String API = "https://api.github.com";
     @Override
